@@ -1120,13 +1120,11 @@ a:hover {
 	}
 	
 	.prestasi-item {
+		margin-top: 20px;
 		padding: 15px;
-		border-radius: 8px;
 		background-color: #ffffff;
-		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-		margin-bottom: 20px;
-		transition: transform 0.2s ease;
-		margin: 30px auto;
+		border-radius: 8px;
+		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 	}
 	
 	.prestasi-item h3 {
